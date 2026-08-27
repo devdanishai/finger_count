@@ -22,6 +22,8 @@ The script processes input images or video frames and uses machine learning algo
 # Viseo Link
 [![Watch the video](https://img.youtube.com/vi/w3JcekiSUT4/0.jpg)](https://www.youtube.com/watch?v=w3JcekiSUT4)
 
-2026-08-25
+2026-08-27
+
+
 
 
