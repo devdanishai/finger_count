@@ -19,10 +19,10 @@ The script processes input images or video frames and uses machine learning algo
 - 📱 **Mobile Applications**: Build into apps that require gesture recognition, such as fitness or interactive apps.  
 
 
-# Viseo Link
+# Video Link
 [![Watch the video](https://img.youtube.com/vi/w3JcekiSUT4/0.jpg)](https://www.youtube.com/watch?v=w3JcekiSUT4)
 
-2026-09-06
+2026-09-07
 
 
 
